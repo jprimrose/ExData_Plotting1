@@ -1,6 +1,6 @@
 library(data.table)
 #   
-#  james.primrose 10.11.2014                   '_' 
+#  james.primrose 11.10.2018                   '_' 
 #  reads in some energy data set              {0,0} -w00t!  
 #  and barfs out a heap of plots              (| (\
 #                                             -"-"-  
